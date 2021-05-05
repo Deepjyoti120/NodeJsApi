@@ -1,0 +1,7 @@
+All Commands
+1. npm init
+2. npm install typescript ts-node express node @types/express @types/node nodemon @types/nodemon
+3. npm install -g typescript ts-node
+4. npm install mongoose @types/mongoose
+5. connect MandoDB
+6.
