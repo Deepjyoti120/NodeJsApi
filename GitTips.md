@@ -4,7 +4,7 @@ TO push
 
 Git add --all
 Git commit -m 'Node js Project Git Init'
-Git push origin bridyc-accountant
+Git push origin master
 clear
 
 to pull 
