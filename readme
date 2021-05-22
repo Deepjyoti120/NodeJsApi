@@ -5,4 +5,5 @@
     3. npm install -g typescript ts-node
     4. npm install mongoose @types/mongoose
     5. connect MandoDB
-    6.
+    6. Install body-parser to work url encoded
+        npm i body-parser @types/body-parser  

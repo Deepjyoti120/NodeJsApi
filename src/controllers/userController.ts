@@ -1,5 +1,5 @@
-export class UserController{
-    static login(req, res){
-        res.send('we are sending login api');
+export class UserController {
+    static login(req, res, next) {
+        res.send(req.body);
     }
 }

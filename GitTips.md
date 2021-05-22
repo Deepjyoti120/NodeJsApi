@@ -1,7 +1,7 @@
 TO push
 
 Git add --all
-Git commit -m 'Node js Project Git Init'
+Git commit -m 'ssd update'
 Git push origin master
 clear
 
