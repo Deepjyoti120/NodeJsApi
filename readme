@@ -1,4 +1,4 @@
-#All Commands for Node.Js Api Projects 
+All Commands for Node.Js Api Projects 
 
     1. npm init
     2. npm install typescript ts-node express node @types/express @types/node nodemon @types/nodemon
