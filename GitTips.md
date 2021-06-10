@@ -1,7 +1,7 @@
 TO push
 
 Git add --all
-Git commit -m 'ssd update'
+Git commit -m 'req.send is not a function'
 Git push origin master
 clear
 

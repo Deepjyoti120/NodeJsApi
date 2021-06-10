@@ -11,7 +11,7 @@ export class UserRouter {
         this.deleteRoutes();
     }
     getRoutes() {
-        this.router.get('/login',UserController.login);
+        this.router.post('/login', UserController.login);
     }
     postRoutes() {
 
